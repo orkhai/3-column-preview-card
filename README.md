@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/orkhai/3-column-preview-card](https://github.com/orkhai/3-column-preview-card)
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-made-with-html-and-css-bEoEw9SNM](https://www.frontendmentor.io/solutions/3-column-preview-card-made-with-html-and-css-bEoEw9SNM)
 - Live Site URL: [https://orkhai.github.io/3-column-preview-card](https://orkhai.github.io/3-column-preview-card)
 
 ## My process
@@ -34,7 +34,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
@@ -47,6 +46,5 @@ I will continue to take on more and more challenges to improve myself.
 
 ## Author
 
-- Website - [Orkhai Dickson](https://github.com/orkhai)
 - Frontend Mentor - [@orkhai](https://www.frontendmentor.io/profile/orkhai)
-- Twitter - [@the_zok](https://www.twitter.com/the_zok)
+- Twitter - [@the_zok](https://www.twitter.com/orkhai_)

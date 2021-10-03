@@ -47,4 +47,4 @@ I will continue to take on more and more challenges to improve myself.
 ## Author
 
 - Frontend Mentor - [@orkhai](https://www.frontendmentor.io/profile/orkhai)
-- Twitter - [@the_zok](https://www.twitter.com/orkhai_)
+- Twitter - [@orkhai_](https://www.twitter.com/orkhai_)
